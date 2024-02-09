@@ -1,0 +1,4 @@
+/node_modules
+.env
+mongodb_cluester2.txt
+/requests
